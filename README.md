@@ -1,6 +1,7 @@
 # AiSD-reports
 
-repozytorium z zdjęciami w lepszej jakości utworzonych wykresów na sprawozdanie z zajęć "Algorytma i Struktury Danych". 
+Repozytorium z materiałami na sprawozdania z zajęć "Algorytma i Struktury Danych". 
 
-
-
+1. Algorytmy Sortowania
+2. Złożone Struktury danych
+... soon ...
